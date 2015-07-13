@@ -1,0 +1,81 @@
+Establishment Identifier,Establishment Name,Obstetric/maternity services,Specialist paediatric service,Psychiatric unit/ward,Intensive care unit (level III),Hospice care unit,Nursing home care unit,Geriatric assessment unit,Domiciliary care service,Alcohol and drug unit,Acute spinal cord injury unit,Coronary care unit,Cardiac surgery unit,Acute renal dialysis unit,Maintenance renal dialysis unit,Burns unit (level III),Major plastic/reconstructive surgery unit,Oncology (cancer treatment) unit,Neonatal intensive care unit (level III),In-vitro fertilisation unit,Comprehensive epilepsy centre,Bone marrow transplantation unit,Renal transplantation unit,Heart-lung transplantation unit,Liver transplantation unit,Pancreas transplantation unit,Clinical genetics unit,Sleep centre,Neurosurgical unit,Infectious diseases unit,AIDS unit,Diabetes unit,Rehabilitation unit
+41CA00008,Hampstead Rehabilitation Centre ,2,2,2,2,2,2,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41CA00014,The Queen Elizabeth Hospital,2,2,1,1,1,2,1,1,2,2,1,2,1,1,2,1,1,2,2,1,2,2,2,2,2,2,1,2,1,2,1,2
+41CA00019,Royal Adelaide Hospital,2,2,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,2,2,2,1,1,2,2,2,2,1,1,1,1,1,1
+41CA00035,Pregnancy Advisory Centre,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41CA00042,St. Margaret's Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41CW00003,Women's and Children's Hospital,1,1,1,1,2,2,2,1,2,2,2,2,1,1,1,1,1,1,1,1,2,2,2,2,2,1,1,1,1,2,1,1
+41EY00076,Central Eyre Peninsula Hospital (Wudinna) ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00082,Cleve District Health and Aged Care ,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00088,Cowell District Hospital ,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00094,Cummins and District Memorial Hospital,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00097,Elliston Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00121,Kimba District Health and Aged Care ,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00169,Ceduna District Health Service ,1,2,2,2,1,1,2,1,2,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00202,Port Lincoln Health Service,1,2,2,2,2,2,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00232,Streaky Bay Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41EY00241,Tumby Bay Hospital and Health Services ,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00106,Gumeracha District Soldiers Memorial Hospital,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00112,Kangaroo Island Health Service,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00118,Karoonda & District Soldiers' Memorial Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00127,Lameroo District Health Services,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00136,Tailem Bend District Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00145,The Mannum District Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00151,Meningie & Districts Memorial Hospital & Health Services,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00160,Mount Barker District Soldiers' Memorial Hospital,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00166,Mount Pleasant District Hospital ,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00172,The Murray Bridge Soldiers' Memorial Hospital,1,2,2,2,2,2,1,1,2,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00193,Pinnaroo Soldiers' Memorial Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2
+41HM00223,South Coast District Hospital,1,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41HM00229,Strathalbyn and District Health Service,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41MN00067,Booleroo Centre District Hospital and Health Services,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00091,Crystal Brook and District Hospital,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00109,Jamestown Hospital & Health Service,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00130,Laura & Districts Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00184,Orroroo & District Health Service,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00190,Peterborough Soldiers' Memorial Hospital,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00199,Port Broughton District Hospital & Health Services,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MN00205,Port Pirie Regional Health Service,1,1,2,2,1,1,1,1,1,2,2,2,1,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41MO00036,McLaren Vale & Districts War Memorial Hospital Inc,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NA00027,Lyell McEwin Hospital,1,1,1,1,1,2,2,1,2,2,1,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2
+41NA00030,Modbury Hospital,2,1,1,2,1,2,1,1,2,2,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41NF00046,Andamooka Outpost Hospital,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00085,Coober Pedy Hospital & Health Services,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00103,Hawker Memorial Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00133,Leigh Creek Health Services ,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00148,Royal District Nursing Service of SA (Marree Health Services),2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00181,Oodnadatta  Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00196,Port Augusta Hospital & Regional Health Services,1,1,2,2,2,2,1,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41NF00208,Quorn Health Services ,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00217,Roxby Downs Health Services ,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00248,Woomera Community Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41NF00249,Whyalla Hospital & Health Services,1,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41RI00055,Riverland Regional Health Service  - Barmera Hospital ,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41RI00058,Riverland Regional Health Service - Berri Hospital,1,2,2,2,2,2,2,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41RI00139,Loxton Hospital Complex,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41RI00211,Renmark Paringa District Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41RI00244,Waikerie Hospital & Health Services,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41SA00005,Flinders Medical Centre,1,1,1,1,2,2,1,1,2,2,1,1,1,1,2,1,1,1,1,1,2,2,2,1,2,1,2,1,1,1,1,2
+41SA00018,Repatriation General Hospital,2,2,1,2,1,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,1
+41SA00033,Noarlunga Public Hospital,2,2,1,2,2,2,2,1,2,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41SE00070,Bordertown Memorial Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41SE00124,Kingston Soldiers' Memorial Hospital,2,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41SE00154,Millicent & District Hospital & Health Services,1,2,2,2,1,1,1,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41SE00163,Mount Gambier and Districts Health Service,1,1,2,2,2,2,2,1,2,2,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41SE00175,Naracoorte Health Service,1,2,2,2,2,1,2,1,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+41SE00187,Penola War Memorial Hospital,2,2,2,2,1,1,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00020,Gawler Health Service,1,2,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00049,Angaston District Hospital ,2,2,2,2,2,2,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00052,Balaklava Soldier's Memorial District Hospital ,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00073,Burra Hospital,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00079,Clare Hospital,1,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00100,Eudunda Hospital,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00115,Kapunda Hospital,1,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00142,Central Yorke Peninsula Hospital (Maitland),2,2,2,2,1,1,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00214,Riverton District Soldiers' Memorial Hospital ,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00220,Snowtown Hospital,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00226,Southern Yorke Peninsula Health Service (Yorketown),2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00235,Tanunda War Memorial Hospital ,1,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+41WK00247,Northern Yorke Peninsula Health Service (Wallaroo),1,1,2,2,1,2,1,1,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+44NA00028,Oakden Hospital,2,2,1,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
+44CA00300,Glenside Hospital,2,2,1,2,2,2,2,2,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1
